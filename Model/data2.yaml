@@ -1,0 +1,9 @@
+train: train2/images
+val: valid2/images
+test: test2/images
+
+names: 
+  0: AirPlane
+  1: Bird
+  2: Drone
+  3: Helicopter
